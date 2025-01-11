@@ -16,6 +16,6 @@ router.delete("/:id",WishController.delete);
 
 
 // PUT a wish
-router.put("/:id",WishController.update);
+//router.put("/:id",WishController.update);
 
 export default router;
